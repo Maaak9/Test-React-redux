@@ -1,0 +1,24 @@
+$primary: #006699;
+
+h2 {
+	color: $primary;
+}
+
+.test {
+  	background-color: #009933;
+  	height: (100% / 70);
+  	width: (100% / 140);
+}
+
+.title {
+  	background-color: #009933;
+	width: 12px;
+	height: 12px;
+}
+
+.middle {
+	margin: auto;
+	margin-top: 5%;
+	max-width: 1800px;
+}
+
